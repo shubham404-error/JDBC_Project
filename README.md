@@ -1,2 +1,2 @@
-# JDBC_CURD_ASSIGNMENT
+# JDBC_CURD_Project
 ## Code is written in JAVA language.
